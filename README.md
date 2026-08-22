@@ -16,15 +16,6 @@ Decomposition of Leclerc's 0.248s advantage over Sainz in Q3 qualifying.
 - **pandas** — data processing
 - **matplotlib** — visualizations
 
-## Reproduce locally
-
-```bash
-git clone https://github.com/YOUR-USERNAME/f1-telemetry-analysis.git
-cd f1-telemetry-analysis
-pip install -r requirements.txt
-jupyter notebook
-```
-
 ## About
 
 Engineering student building a portfolio of F1 performance analyses.
