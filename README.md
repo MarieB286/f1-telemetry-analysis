@@ -39,4 +39,4 @@ jupyter notebook
 Engineering student building a portfolio of F1 performance analyses.
 Currently applying for internships in F1 performance / vehicle dynamics engineering.
 
-📧 Contact: [your email or LinkedIn]
+📧 Contact: Marie Bouteyre 
