@@ -9,6 +9,10 @@ Portfolio project focused on lap comparison, delta decomposition, and driving st
 Decomposition of Leclerc's 0.248s advantage over Sainz in Q3 qualifying.
 📓 [Full notebook](Monaco_Q3_2024_LEC_vs_SAI.ipynb)
 
+### Barcelona Q3 2026 — Russell vs Hamilton
+Decomposition of Russell's 0.064s advantage over Hamilton in Q3 qualifying.
+📓 [Full notebook](Barcelona_Q3_26_RUS_vs_HAM.ipynb)
+
 ## Tech Stack
 
 - **Python 3.10+**
